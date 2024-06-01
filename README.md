@@ -1,7 +1,7 @@
 Hi! My name is Morteza Faraji
 ======================================================================================================================================
 
-Hi all! My name is Morteza Faraji, and I am a Computer Science student at the University of Calgary. I love iOS development and learning Japanese. 😄 (Also, an avid Vim user🗿)
+I am a Computer Science student at the University of Calgary. I love iOS development and learning Japanese. 😄 (Also, an avid Vim user🗿)
 
 * 🌍  I'm based in Calgary, Alberta, Canada
 * ✉️  You can contact me at [Morteza.Faraji@ucalgary.ca](mailto:Morteza.Faraji@ucalgary.ca)
