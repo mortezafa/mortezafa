@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Morteza Faraji
+Hi! My name is Morteza Faraji
 ======================================================================================================================================
 
 Hi all! My name is Morteza Faraji, and I am a Computer Science student at the University of Calgary. I love iOS development and learning Japanese. 😄 (Also, an avid Vim user🗿)
